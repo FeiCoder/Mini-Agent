@@ -132,6 +132,7 @@ uv tool uninstall mini-agent                  # 卸载工具（如需要）
 uv tool list                                  # 查看所有已安装的工具
 ```
 
+
 #### 🔧 开发模式
 
 此模式适合需要修改代码、添加功能或进行调试的开发者。
